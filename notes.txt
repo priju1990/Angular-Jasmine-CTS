@@ -1,0 +1,4 @@
+Jasmine
+------------------------
+Ng test -> run all the spec.ts files…ie from all the components
+To run coverage -> D:\angularjasmine>ng test --code-coverage then go to the coverage folder and run the live server
